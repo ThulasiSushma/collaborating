@@ -1,0 +1,4 @@
+- I'm 46 years old
+- My favourite colour is blue
+- My preferred language is Italian
+- My favorite restaurants are pizza and sushi restaurants
